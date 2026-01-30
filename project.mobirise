@@ -6,7 +6,7 @@
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#f39c12",
+        "primaryColor": "#34495f",
         "buttonsColor": "#ffffff",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
@@ -114,7 +114,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
+              "color": "#34495f!important"
             },
             ".btn": {
               "font-family": "'PT Sans Narrow', sans-serif",
@@ -752,7 +752,7 @@
           "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0182",
           "titled3": "JOHNS HOPKINS UNIVERSiTY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
-          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br>",
+          "text": "© 2018 Maryland State Department of Education,   <br>Division of Special Education and Johns Hopkins University,  Center for Technology in Education (JHU CTE).\n<br><br>  Please include reference to Division of Special Education on any replications of this information. <br/> Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -849,7 +849,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
+              "color": "#34495f!important"
             },
             ".btn": {
               "font-family": "'PT Sans Narrow', sans-serif",
@@ -1844,7 +1844,7 @@
           "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0182",
           "titled3": "JOHNS HOPKINS UNIVERSiTY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
-          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br>",
+          "text": "© 2018 Maryland State Department of Education,   <br>Division of Special Education and Johns Hopkins University,  Center for Technology in Education (JHU CTE).\n<br><br>  Please include reference to Division of Special Education on any replications of this information. <br/> Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -2774,7 +2774,7 @@
           "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0182",
           "titled3": "JOHNS HOPKINS UNIVERSiTY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
-          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br>",
+          "text": "© 2018 Maryland State Department of Education,   <br>Division of Special Education and Johns Hopkins University,  Center for Technology in Education (JHU CTE).\n<br><br>  Please include reference to Division of Special Education on any replications of this information. <br/> Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -2838,7 +2838,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
+              "color": "#34495f!important"
             },
             ".btn": {
               "font-family": "'PT Sans Narrow', sans-serif",
@@ -3229,7 +3229,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
+              "color": "#34495f!important"
             },
             ".btn": {
               "font-family": "'PT Sans Narrow', sans-serif",
@@ -3369,7 +3369,7 @@
           "titled2": "Maryland Infants and Toddlers Program<br>1-800-535-0182",
           "titled3": "JOHNS HOPKINS UNIVERSiTY\n<br>CENTER FOR TECHNOLOGY IN EDUCATION (JHU, CTE)",
           "followtext": "follow us",
-          "text": "© 2018 Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).\n<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br>",
+          "text": "© 2018 Maryland State Department of Education,   <br>Division of Special Education and Johns Hopkins University,  Center for Technology in Education (JHU CTE).\n<br><br>  Please include reference to Division of Special Education on any replications of this information. <br/> Permission must be requested for any use that is not \"fair use\" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "alias": "colorm/components",
           "_tags": [
@@ -3559,7 +3559,7 @@
           },
           "text1": "≥25% delay compared with expected development for the child's age in one or or more of the following areas: cognitive (early learning), communication, physical development (fine and gross motor skills), social-emotional skills, &nbsp;and adaptive (self-help). &nbsp;<br><br>The Infants and Toddlers Program will conduct the appropriate evaluation, at no cost to the family, with the parent's consent.",
           "text2": "Atypical development or behavior refers to quality of performance. &nbsp;A child may demonstrate skills that are age appropriate but that are of atypical quality. Examples of atypical development/behavior include: refusal to take foods of a certain texture, decreased initiation of communication for social purposes, repetitive or stereotyped patterns of play with objects, etc.<br><br>Children may be eligible for early intervention if they demonstrate atypical development or behavior in one or more areas.",
-          "text3": "Children may be eligible for early intervention services if they have been diagnosed with a physical or mental condition that has a high probability of delayed or atypical development. &nbsp;Examples include, but are not limited to, Down Syndrome, visual or hearing impairment, elevated lead levels, extreme prematurity (birth weight &lt;1200 grams), epilepsy, etc.",
+          "text3": "Children may be eligible for early intervention services if they have been diagnosed with a physical or mental condition that has a high probability of delayed or atypical development. &nbsp;Examples include, but are not limited to, Down Syndrome, visual or hearing impairment, elevated lead levels, extreme prematurity (birth weight &lt;1500 grams), epilepsy, etc.",
           "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
           "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
           "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",

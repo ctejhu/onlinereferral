@@ -60,31 +60,7 @@
 
 
   
-  <section class="menu1" id="menu-g" data-rv-view="49">
-
-    <nav class="navbar navbar-dropdown navbar-fixed-top">
-        <div class="container-fluid">
-
-            <div class="mbr-table">
-                
-                <div class="mbr-table-cell">
-
-                    <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
-                        <span class="hamburger-icon"></span>
-                    </button>
-
-                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="https://mobirise.com/"></a></li><li class="nav-item"><a class="nav-link link" href="index.html" aria-expanded="false">Home<br></a></li><li class="nav-item"><a class="nav-link link" href="Milestones.html" aria-expanded="false">Developmental <br>Milestones<br></a></li><li class="nav-item"><a class="nav-link link" href="MDITP.html">Maryland Infants &amp; <br>Toddlers Program</a></li><li class="nav-item"><a class="nav-link link" href="Referral.html">How to Refer</a></li><li class="nav-item nav-btn"><a class="nav-link btn btn-white btn-white-outline" href="https://online.mditp.org" target="_blank">Login</a></li></ul>
-                    <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
-                        <span class="close-icon"></span>
-                    </button>
-
-                </div>
-            </div>
-
-        </div>
-    </nav>
-
-</section>
+<div id="menu"></div>
 
 <section class="mbr-section content1 article mbr-section__container mbr-after-navbar" id="content1-13" data-rv-view="47" style="background-color: rgb(255, 255, 255); padding-top: 140px; padding-bottom: 0px;">
 
@@ -390,7 +366,7 @@
                         <div class="panel panel-default" style="display: block;">
                             <div class="panel-heading" role="tab" id="headingOne">
                                 <span class="signSpan pseudoMinus"></span>
-                                <h4 class="panel-title display-6"><a role="button" class="collapsed text-danger" data-toggle="collapse" data-parent="#accordion2-10-init" data-core="" href="#collapseOneaccordion2-10" aria-expanded="false" aria-controls="collapseOne"><span class="sign"></span>Developmental Milestones Tracker</a></h4>
+                                <h4 class="panel-title display-6"><a role="button" class="collapsed  text-white" data-toggle="collapse" data-parent="#accordion2-10-init" data-core="" href="#collapseOneaccordion2-10" aria-expanded="false" aria-controls="collapseOne"><span class="sign"></span>Developmental Milestones Tracker</a></h4>
                             </div>
                             <div id="collapseOneaccordion2-10" class="panel-collapse noScroll collapse in" role="tabpanel" aria-labelledby="headingOne">
                                 <div class="panel-body lead"><p>Track your child's milestones from age 2 months to 5 years with the Centers for Disease Control and Prevention's easy-to-use app on <a href="https://itunes.apple.com/us/app/cdcs-milestone-tracker/id1232718688?mt=8" target="_blank">iOs</a> and <a href="https://play.google.com/store/apps/details?id=gov.cdc.ncbddd.actearly.milestones" target="_blank">Android </a>devices in English and Spanish. &nbsp;With the app, you can e<span style="font-size: 1rem;">nter and save information about one or more children; keep track of your child's doctors appointments; get a summary of your child's milestones to view and to share with your physician and other important care providers; and receive tips and activities to support your child's development.&nbsp;</span></p></div>
@@ -480,10 +456,20 @@
         <p class="text-xs-center mbr-section-text lead">&copy
    <script>
       document.write(new Date().getFullYear());
-   </script> Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).
-<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not "fair use" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br></p>
+   </script> Maryland State Department of Education,   <br>Division of Special Education and Johns Hopkins University,  Center for Technology in Education (JHU CTE).
+<br><br>  Please include reference to Division of Special Education on any replications of this information. <br/> Permission must be requested for any use that is not "fair use" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br></p>
     </div>
 </footer>
+
+
+  <script>
+    fetch("menu.html")
+      .then(response => response.text())
+      .then(html => {
+        document.getElementById("menu").innerHTML = html;
+      })
+      .catch(err => console.error("Menu failed to load:", err));
+  </script>
 
 
 <script src="assets/web/assets/jquery/jquery.min.js"></script>

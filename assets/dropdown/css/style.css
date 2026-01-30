@@ -101,9 +101,8 @@
 .nav-dropdown {
   display: table !important;
   font-family: "Montserrat";
-  font-size: 0.75rem;
+  font-size: 1.25rem;
   font-weight: 400;
-  letter-spacing: 2px;
   height: auto !important; }
   .nav-dropdown .nav-item {
     display: table-cell;
@@ -113,7 +112,7 @@
   .nav-dropdown .nav-btn {
     padding-left: 1rem; }
   .nav-dropdown .link {
-    margin: 1.667em 2em;
+    margin: 1.667em 1em;
     padding: 0;
     transition: color .2s ease-in-out; }
     .nav-dropdown .link.dropdown-toggle {

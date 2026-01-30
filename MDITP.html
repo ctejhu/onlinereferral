@@ -62,31 +62,7 @@
 
 
   
-  <section class="menu1" id="menu-g" data-rv-view="100">
-
-    <nav class="navbar navbar-dropdown navbar-fixed-top">
-        <div class="container-fluid">
-
-            <div class="mbr-table">
-                
-                <div class="mbr-table-cell">
-
-                    <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
-                        <span class="hamburger-icon"></span>
-                    </button>
-
-                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="https://mobirise.com/"></a></li><li class="nav-item"><a class="nav-link link" href="index.html" aria-expanded="false">Home<br></a></li><li class="nav-item"><a class="nav-link link" href="Milestones.html" aria-expanded="false">Developmental <br>Milestones<br></a></li><li class="nav-item"><a class="nav-link link" href="MDITP.html">Maryland Infants &amp; <br>Toddlers Program</a></li><li class="nav-item"><a class="nav-link link" href="Referral.html">How to Refer</a></li><li class="nav-item nav-btn"><a class="nav-link btn btn-white btn-white-outline" href="https://online.mditp.org" target="_blank">Login</a></li></ul>
-                    <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
-                        <span class="close-icon"></span>
-                    </button>
-
-                </div>
-            </div>
-
-        </div>
-    </nav>
-
-</section>
+<div id="menu"></div>
 
 <section class="mbr-section content1 article mbr-section__container mbr-after-navbar" id="content1-1j" data-rv-view="92" style="background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 20px;">
 
@@ -300,7 +276,7 @@ positive social-emotional skills and relationships, <br>* Acquire and use knowle
                                         
                                         <div class="row">
                                             <div class="col-md-12">
-                                                <p class="mbr-section-text lead">Children may be eligible for early intervention services if they have been diagnosed with a physical or mental condition that has a high probability of delayed or atypical development. &nbsp;Examples include, but are not limited to, Down Syndrome, visual or hearing impairment, elevated lead levels, extreme prematurity (birth weight &lt;1200 grams), epilepsy, etc.</p>
+                                                <p class="mbr-section-text lead">Children may be eligible for early intervention services if they have been diagnosed with a physical or mental condition that has a high probability of delayed or atypical development. &nbsp;Examples include, but are not limited to, Down Syndrome, visual or hearing impairment, elevated lead levels, extreme prematurity (birth weight &lt;1500 grams), epilepsy, etc.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -747,10 +723,19 @@ the early intervention process.</p>
         <p class="text-xs-center mbr-section-text lead">&copy
    <script>
       document.write(new Date().getFullYear());
-   </script> Maryland State Department of Education, Division of Early Intervention and Special Education Services (MSDE, DEI/SES) and <br>Johns Hopkins University, Center for Technology in Education (JHU CTE).
-<br><br>Please include reference to MSDE, DEI/SES on any replications of this information. <br>Permission must be requested for any use that is not "fair use" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br></p>
+   </script> Maryland State Department of Education,   <br>Division of Special Education and Johns Hopkins University,  Center for Technology in Education (JHU CTE).
+<br><br>  Please include reference to Division of Special Education on any replications of this information. <br/> Permission must be requested for any use that is not "fair use" as that term is understood in copyright law from: <br>MSDE, DEI/SES, 200 West Baltimore Street, Baltimore, Maryland 21201, Phone: 410- 767-0249&nbsp;<br></p>
     </div>
 </footer>
+
+  <script>
+    fetch("menu.html")
+      .then(response => response.text())
+      .then(html => {
+        document.getElementById("menu").innerHTML = html;
+      })
+      .catch(err => console.error("Menu failed to load:", err));
+  </script>
 
 
 <script src="assets/web/assets/jquery/jquery.min.js"></script>
