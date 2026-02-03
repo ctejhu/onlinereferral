@@ -118,6 +118,18 @@
      .nav-dropdown  .nav-item:hover {
     background-color: antiquewhite;
      }
+     .reverse-hover{
+      background-color: #fcf9f8 !important;
+     }
+
+          .reverse-hover .btn{
+      background-color: antiquewhite;
+     }
+             .reverse-hover .btn:hover{
+      background-color: #34495e;
+
+      border: none;
+     }
   .nav-dropdown .nav-btn {
     padding-left: 1rem; }
   .nav-dropdown .link {

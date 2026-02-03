@@ -33,7 +33,7 @@ textarea,
 .mbr-section-text,
 .mbr-company .list-group-text,
 .panel-body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
@@ -512,6 +512,7 @@ textarea,
 
 .card-block .lead a {
     color: #f9f6f6;
+    text-decoration: underline ;
 }
 
 

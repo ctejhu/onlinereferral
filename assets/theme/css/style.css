@@ -5787,11 +5787,11 @@ html.is-builder {
   .tabs .nav-tabs .nav-item.nav-item-last .nav-link {
     border-right: 2px solid #eee; }
 .tabs .tab-content {
-  margin-top: 30px; }
+  margin-top: 0px; }
   .tabs .tab-content .mbr-figure {
-    margin-bottom: 30px; }
+    margin-bottom: 0px; }
   .tabs .tab-content .mbr-section-subtitle {
-    margin-bottom: 20px; }
+    margin-bottom: 0px; }
 .tabs .image {
   margin-bottom: 20px; }
   .tabs .image img {
