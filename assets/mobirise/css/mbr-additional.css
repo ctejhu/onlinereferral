@@ -509,8 +509,20 @@ textarea,
 .lead a {
   color: #34495f;
 }
+
+.card-block .lead a {
+    color: #f9f6f6;
+}
+
+
+.card-block .lead a:hover {
+  color: #ffffff;
+  font-weight: 600;
+}
+
 .lead a:hover {
-  color:#34495f;
+ color:#1a242f;
+  font-weight: 600;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -1089,23 +1101,32 @@ section.form .container {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #fff;
-  font-family: 'PT Sans', sans-serif;
 }
 #features1-2f .mbr-section-text {
   text-align: left;
   font-family: 'PT Sans', sans-serif;
+  font-size: 18px;
 }
 #tabs1-2g P {
   text-align: left;
   font-family: 'PT Sans', sans-serif;
+  font-size: 18px;
 }
+.text-24{
+  font-size:24px !important;
+}
+
+.text-18{
+  font-size:18px !important;
+}
+
 #tabs1-2g .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
   font-size: 48px;
 }
 #content4-11 P {
   font-family: 'PT Sans', sans-serif;
-  font-size: 20px;
+  font-size: 18px;
 }
 #tabs2-2i P {
   text-align: left;
