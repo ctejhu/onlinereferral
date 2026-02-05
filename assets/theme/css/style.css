@@ -2441,7 +2441,6 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   font-size: 10px; }
 .testimonials1 .mbr-author-desc {
   font-family: 'Montserrat', sans-serif;
-  letter-spacing: 3px;
   font-weight: 700; }
 .testimonials1 .mbr-author:after {
   content: '';
@@ -2791,7 +2790,7 @@ html, body {
 .mbr-author-desc {
   color: #9fa3a7;
   font-family: "Montserrat";
-  font-size: 10px;
+  font-size: 1rem;
   font-style: normal;
   font-weight: 400;
   line-height: 1.597; }

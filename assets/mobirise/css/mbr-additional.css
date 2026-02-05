@@ -852,7 +852,7 @@ section.form .container {
   font-style: italic;
 }
 #header1-1 .mbr-section-title {
-  font-size: 48px;
+  font-size: 4rem;
   font-family: 'Oxygen', sans-serif;
   color: #ffffff;
   text-align: left;
@@ -1500,4 +1500,19 @@ section.form .container {
 }
 #buttons1-10 .btn {
    
+}
+
+
+/* Tablet */
+@media (max-width: 1024px) {
+    #header1-1 .mbr-section-title {
+        font-size: 2.4rem;
+    }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    #header1-1 .mbr-section-title {
+        font-size: 2rem;
+    }
 }
