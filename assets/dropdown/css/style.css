@@ -5,7 +5,9 @@
   right: 0;
   top: 0;
   transition: all 0.45s ease;
-  z-index: 1030; }
+  z-index: 1030; 
+    box-shadow: 0 2px 4px 0 rgba(52, 52, 52, 0.1);
+}
   .navbar-dropdown .navbar-brand {
     float: none;
     font-size: 0;
@@ -116,6 +118,9 @@
 
   }
      .nav-dropdown  .nav-item:hover {
+    background-color: antiquewhite;
+     }
+     .active-x {
     background-color: antiquewhite;
      }
      .reverse-hover{

@@ -652,18 +652,18 @@ blockquote {
   background:#34495f;
 }
 .countdown2 .bottom2 {
-  background: #c87f0a;
+  background: #f29c12;
 }
 /*accordion*/
 .accordion .panel-heading {
   background:#34495f;
-  border-bottom: 1px solid #c87f0a;
+  border-bottom: 1px solid #f29c12;
 }
 .accordion .panel-heading:hover {
-  background: #c87f0a;
+  background: #f29c12;
 }
 .accordion .accordion-group .panel:last-child:after {
-  background: #c87f0a;
+  background: #f29c12;
 }
 /* news */
 .news__card:hover {
