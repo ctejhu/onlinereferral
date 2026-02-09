@@ -1503,6 +1503,10 @@ section.form .container {
    
 }
 
+.padding-1rem{
+  padding-left: 1rem;
+  font-size: 18px;
+}
 
 /* Tablet */
 @media (max-width: 1024px) {
